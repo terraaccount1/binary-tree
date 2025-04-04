@@ -1,0 +1,36 @@
+Book 383
+Author 886
+1900
+132
+14
+83.35
+LEFT : 1
+RIGHT: 2
+
+Book 172
+Author 736
+1926
+448
+8
+64.29
+LEFT : 0
+RIGHT: 0
+
+Book 386
+Author 492
+2005
+384
+3
+0.27
+LEFT : 0
+RIGHT: 1
+
+Book 690
+Author 59
+1908
+537
+1
+34.26
+LEFT : 0
+RIGHT: 0
+
